@@ -1,5 +1,5 @@
 # To-Do-Liste
-Pour m'exercer, j'ai décidé de créer un logiciel de todo liste en utilisant une API avec Vite et Tailwind, le tout en vanilla JS. J'ai fait en sorte de m'appuyer le moins possible sur ChatGPT pour développer mes compétences.
+Pour m'exercer, j'ai décidé de créer un logiciel de todo liste en utilisant une [API](https://jsonplaceholder.typicode.com/users). J'ai realsier se projet avec [Vite](https://vitejs.dev/) et [Tailwind](https://tailwindcss.com/), le tout en vanilla JS. J'ai fait en sorte de m'appuyer le moins possible sur ChatGPT pour développer mes compétences et ainsi me préparer à apprendre [React](https://react.dev/) et [Next.js](https://nextjs.org/)
 
 
 ## Description
