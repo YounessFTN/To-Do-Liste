@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 240 100% 98%; /* Fond clair */
+    --foreground: 0 0% 20%; /* Texte sombre */
+    --card: 240 100% 98%; /* Carte claire */
+    --card-foreground: 0 0% 20%;
+    --primary: 0 100% 60%; /* Couleur principale claire */
+    --primary-foreground: 240 0% 95%; /* Texte clair */
+    --muted: 240 10% 95%;
+    --muted-foreground: 240 10% 40%;
+    --border: 240 5% 90%; /* Couleur des bordures claires */
+    --accent: 240 100% 90%;
+  }
+
+  .light {
+    --background: 240 100% 98%;
+    --foreground: 0 0% 20%;
+    --card: 240 100% 98%;
+    --card-foreground: 0 0% 20%;
+    --primary: 0 100% 60%;
+    --primary-foreground: 240 0% 95%;
+  }
+}
